@@ -1,0 +1,30 @@
+---
+layout:     post
+title:      "Hello 2023"
+subtitle:   " \"Hello World\""
+date:       2023-11-11 12:00:00
+author:     "RainMan"
+header-img: "img/post-bg-2015.jpg"
+catalog: true
+tags:
+    - fliggy
+    - 飞猪
+    - 双十一
+---
+
+> “快乐得源泉不应是得到了多少，应是付出了多少 ”
+
+
+今天是飞猪的双十一。
+
+2023 年，RainMan作为技术同学间接参与了双十一项目。
+
+
+作为一个程序员， 能够参与到阿里发起的双十一项目中，是一个有意义的代表，虽然过程中非主力军 只是打个杂，但是同样快乐！
+
+
+<p id = "build"></p>
+
+## 正文
+
+今天也是正儿八经在“自己”博客上写文章，记录下来吧。  
