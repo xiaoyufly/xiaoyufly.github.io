@@ -4,7 +4,7 @@ title:      "重温张艺谋电影-英雄"
 subtitle:   " \"一些感想\""
 date:       2023-12-05 22:30:00
 author:     "RainMan"
-header-img: "/img/home-bg.jpg"
+header-img: "/img/post-film-yingxiong.jpg"
 catalog: true
 tags:
     - 电影
